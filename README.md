@@ -9,9 +9,6 @@
 | Ad-Free Experience | ❌ | ✅ |
 | Custom Skins | Basic Only | **Unlimited** |
 | Private Servers | ❌ | ✅ |
-| Support | Community | **Priority Email** |
 
 ## 🚀 Upgrade to WebCraft Pro
-Get the most out of your experience with exclusive features and faster updates.
-
-[**Get WebCraft Pro — $9.99**](https://xbox.com)
+Get the most out of your experience with exclusive features and faster updates
